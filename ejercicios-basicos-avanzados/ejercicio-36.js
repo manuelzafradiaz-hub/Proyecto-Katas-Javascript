@@ -1,7 +1,3 @@
-/*Crea una función que, dada una lista de actores con su año de nacimiento, calcule su edad actual y retorne un nuevo array con los nombres de los actores y sus edades.
-
-Averigua como hallar el año actual en tus cálculos./*/
-
 const actors = [
   { name: 'Leonardo DiCaprio', born: 1974 },
   { name: 'Tom Hanks', born: 1956 },
